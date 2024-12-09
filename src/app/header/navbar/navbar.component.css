@@ -3,8 +3,10 @@ div {
     justify-content: space-around;
     align-items: center;
     flex-direction: row;
+    background-color: #442653;
 }
 
 a {
     margin: 0 15px;
+    background-color: #442653;
 }
