@@ -1,0 +1,20 @@
+app-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 0;
+    background-color: #442653;
+    box-shadow:  0px 20px 60px #000000,
+        0px -20px 60px ;
+    z-index: 999999;
+}
+
+app-main-content-index {
+    z-index: 9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+}
