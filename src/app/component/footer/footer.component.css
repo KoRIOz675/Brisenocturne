@@ -1,0 +1,40 @@
+#footer {
+  text-align: justify;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 1000;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.column {
+  margin: 10px 60px 10px 60px;
+}
+
+.column a {
+  color: white;
+  text-decoration: underline;
+  padding: 10px;
+}
+
+.column p {
+  padding: 10px;
+}
+
+.lieu {
+  display: flex;
+  flex-direction: row;
+}
